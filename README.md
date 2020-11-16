@@ -71,6 +71,12 @@ I love to get involved in opportunities that offer exciting challenges, especial
 
 ## Interests
 
+### Sport
+
+👊 Martial Arts
+
+🏋🏻 Fitness
+
 ### Blogging
 
 🖊️ Author of [LC](https://blog.lucacattide.dev), my personal blog which shares tips on how to find balance between our tech job & wellness
