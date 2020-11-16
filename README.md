@@ -81,7 +81,7 @@ I love to get involved in opportunities that offer exciting challenges, especial
 
 🖊️ Author of [LC](https://blog.lucacattide.dev), my personal blog which shares tips on how to find balance between our tech job & wellness
 
-### Open Source
+### Gaming
 
 🎮 Project Manager @ [Blood & Sand](https://github.com/blood-sand), an indie turn-based combat and management game set on the ancient Rome 
 
