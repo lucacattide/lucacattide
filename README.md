@@ -69,6 +69,18 @@ I love to get involved in opportunities that offer exciting challenges, especial
 
 ⚙️ Technologies: HTML, CSS, JavaScript, jQuery, PHP, SQL/MySQL, Joomla, PhoneGap, GitHub, Google Analytics, Facebook, Adobe Creative Cloud
 
+## Interests
+
+### Blogging
+
+🖊️ Author of [LC](https://blog.lucacattide.dev), my personal blog which shares tips on how to find balance between our tech job & wellness
+
+### Open Source
+
+🎮 Project Manager @ [Blood & Sand](https://github.com/blood-sand), an indie turn-based combat and management game set on the ancient Rome 
+
+🎮 Founder of [R3537](https://github.com/r3537). Currently looking for other indie game developers to join the team!
+
 ## Skills
 
 ⌨️ Languages: HTML, CSS, SASS, JavaScript, PHP, SQL, GraphQL
