@@ -35,17 +35,11 @@ I love to get involved in opportunities that offer exciting challenges, especial
 
 📊 Automated and improved the company IT inventory management process with reduced human resources involvement
 
-🖊️ Coached the creative team in copywriting and SEO techniques; localized contents (Italian/English) and SEO of 11 launched projects
-
 ⚙️ Technologies: HTML, CSS/SASS, Flexbox, Compass, JavaScript, jQuery, BootStrap, Gulp, Webpack, PHP, SQL/MySQL, SilverStripe, Capistrano, Vue, Laravel, PrestaShop, Gitlab, SourceTree, Vagrant, Google Analytics/Tag Manager, Adobe Creative Cloud, JIRA
 
 ### laboratorio-a
 
 ⌨️ Developed and maintained 8+ Frontend projects between websites, web/mobile apps - including 1 remote team collaboration managed via Scrum framework
-
-🖊️ Created and localized contents (Italian/English) + SEO of 8 web projects and 1 SMM campaign
-
-📊 Launched, managed and analyzed 1 SMM campaign which resulted with 2.40% average CTR
 
 👨‍🏫 Mentored and coached 1 junior team member on frontend development languages/tools, SEO and SMM
 
@@ -57,12 +51,6 @@ I love to get involved in opportunities that offer exciting challenges, especial
 
 ⌨️ Developed and maintained 12+ Frontend/Backend projects between websites and web/mobile applications - and 4 designed UI
 
-✏️ Branded and designed contents for 3 web projects, 1 mobile app and 2 SMM campaigns
-
-🖊️ Created and localized contents (Italian/English) + SEO of 11 web projects, 1 mobile app and 1 SMM campaign
-
-📊 Launched, managed and analyzed 1 SMM campaign which resulted with 2.40% average CTR
-
 🤝 Advised and managed 4 between web/communication projects and related clients
 
 🛠️ On-demand/on-site technically assisted and resolved over 6 customers on hardware and software
@@ -70,12 +58,6 @@ I love to get involved in opportunities that offer exciting challenges, especial
 ⚙️ Technologies: HTML, CSS, JavaScript, jQuery, PHP, SQL/MySQL, Joomla, PhoneGap, GitHub, Google Analytics, Facebook, Adobe Creative Cloud
 
 ## Interests
-
-### Sport
-
-👊 Martial Arts
-
-🏋🏻 Fitness
 
 ### Blogging
 
