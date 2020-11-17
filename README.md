@@ -53,8 +53,6 @@ I love to get involved in opportunities that offer exciting challenges, especial
 
 🤝 Advised and managed 4 between web/communication projects and related clients
 
-🛠️ On-demand/on-site technically assisted and resolved over 6 customers on hardware and software
-
 ⚙️ Technologies: HTML, CSS, JavaScript, jQuery, PHP, SQL/MySQL, Joomla, PhoneGap, GitHub, Google Analytics, Facebook, Adobe Creative Cloud
 
 ## Interests
