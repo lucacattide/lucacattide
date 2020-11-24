@@ -21,8 +21,6 @@ Senior Frontend Developer with 7+ years of experience in websites/cross-platform
 
 📚 Constantly updated on latest development frameworks/technologies, with 5 certificates + 6 certifications acquired and in progressive increase
 
-☯️ Acquired Chinese martial arts (Kung Fu Shaolin, T'ai Chi Ch'uan, Sanda) since 13 years, with 5 honors/awards achieved
-
 💬 “I had occasion to work with Luca finding in him a great capacity of cohesion and teamwork participation, as well as excellent technical preparation and the ability to invect and search for the most appropriate solution. Humanly a very pleasant person with whom to have a chat in moments of exchange of ideas.” - Alessio Luparelli, CTO Greylab
 
 I love to get involved in opportunities that offer exciting challenges, especially if they involve the use of new Frontend technologies. Want to connect? Email me at 📧 info(at)lucacattide.dev. 
