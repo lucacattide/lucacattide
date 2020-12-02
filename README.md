@@ -31,9 +31,9 @@ I love to get involved in opportunities that offer exciting challenges, especial
 
 📚 Took a professional break to learn MERN stack in-depth via self-study, endorsing my 7+ years of previous Frontend development experience
 
-⌨️ Developed a full-stack responsive localized portfolio website based on JAMstack principles of 4 sections/10 projects, with progressive web app capabilities, AR/VR features, blogging & video/live stream API integrations; deployed on a cloud platform; CI/CD support; contents managed through headless CMS
+⌨️ Developed a full-stack responsive localized portfolio website based on JAMstack principles of 4 sections/10 projects, with progressive web app capabilities, AR/VR features, blogging & video/live stream API integrations; deployed on a cloud platform; CI/CD support; contents managed through headless CMS with GraphQL API
 
-⌨️ Built a full-stack responsive blog based on JAMstack principles of 15 categories, with progressive web app capabilities, RSS feed, internal search/filtering features, mailing list API integration; deployed on a cloud platform; CI/CD support; contents managed via headless CMS
+⌨️ Built a full-stack responsive blog based on JAMstack principles of 15 categories, with progressive web app capabilities, RSS feed, internal search/filtering features, mailing list API integration; deployed on a cloud platform; CI/CD support; contents managed via headless CMS with GraphQL API
 
 ⌨️ Developed a full-stack responsive localized financial SPA of 20+ user budgeting features, with progressive web app capabilities, server-side rendered; data managed through GraphQL API; deployed on a cloud platform + data storage integration; CI/CD support
 
