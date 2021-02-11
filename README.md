@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Senior Frontend Developer with 7+ years of experience in websites/cross-platform apps development across 3 joined companies.
+Senior Frontend Developer with 8+ years of experience in websites/cross-platform apps development across 3 joined companies.
 
 ⌨️ Proven knowledge of 40+ languages/tools (including HTML, CSS/SASS, JavaScript), Frontend libraries/frameworks (i.e. jQuery, React) and essential softwares on 30+ created projects
 
@@ -29,7 +29,7 @@ I love to get involved in opportunities that offer exciting challenges, especial
 
 ### Self-Study
 
-📚 Took a professional break to learn MERN stack in-depth via self-study, endorsing my 7+ years of previous Frontend development experience
+📚 Took a professional break to learn MERN stack in-depth via self-study, endorsing my 8+ years of previous Frontend development experience
 
 ⌨️ Developed a full-stack responsive localized portfolio website based on JAMstack principles of 4 sections/10 projects, with progressive web app capabilities, AR/VR features, blogging & video/live stream API integrations; deployed on a cloud platform; CI/CD support; contents managed through headless CMS with GraphQL API
 
