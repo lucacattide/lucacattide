@@ -90,3 +90,12 @@ I love to get involved in opportunities that offer exciting challenges, especial
 📚 Other: Flexbox, BEM, SEO, GitFlow
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lucacattide)
+
+## Coding Challenges
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucacattide&repo=chessable-challenge)](https://github.com/lucacattide/greenjinn-challenge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucacattide&repo=greenjinn-challenge)](https://github.com/lucacattide/greenjinn-challenge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucacattide&repo=innoloft-challenge)](https://github.com/lucacattide/greenjinn-challenge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucacattide&repo=fonoa-challenge)](https://github.com/lucacattide/greenjinn-challenge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucacattide&repo=payfit-challenge)](https://github.com/lucacattide/greenjinn-challenge)
+
