@@ -97,8 +97,8 @@ I love to get involved in opportunities that offer exciting challenges, especial
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucacattide&repo=greenjinn-challenge)](https://github.com/lucacattide/greenjinn-challenge)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucacattide&repo=innoloft-challenge)](https://github.com/lucacattide/innoloft-challenge)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucacattide&repo=searchmetrics-challenge)](https://github.com/lucacattide/searchmetrics-challenge)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucacattide&repo=fonoa-challenge)](https://github.com/lucacattide/fonoa-challenge)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucacattide&repo=ueni_challenge)](https://github.com/lucacattide/ueni_challenge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucacattide&repo=fonoa-challenge)](https://github.com/lucacattide/fonoa-challenge)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucacattide&repo=vavato-challenge)](https://github.com/lucacattide/vavato-challenge)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucacattide&repo=payfit-challenge)](https://github.com/lucacattide/payfit-challenge)
 
