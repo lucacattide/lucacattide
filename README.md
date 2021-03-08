@@ -99,6 +99,7 @@ I love to get involved in opportunities that offer exciting challenges, especial
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucacattide&repo=searchmetrics-challenge)](https://github.com/lucacattide/searchmetrics-challenge)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucacattide&repo=ueni_challenge)](https://github.com/lucacattide/ueni_challenge)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucacattide&repo=fonoa-challenge)](https://github.com/lucacattide/fonoa-challenge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucacattide&repo=virtasant-challenge)](https://github.com/lucacattide/virtasant-challenge)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucacattide&repo=vavato-challenge)](https://github.com/lucacattide/vavato-challenge)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucacattide&repo=payfit-challenge)](https://github.com/lucacattide/payfit-challenge)
 
