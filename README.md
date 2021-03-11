@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Senior Frontend Developer with 8+ years of experience in websites/cross-platform apps development across 3 joined companies.
+Frontend Developer with 8+ years of experience in websites/cross-platform apps development across 3 joined companies.
 
 ⌨️ Proven knowledge of 40+ languages/tools (including HTML, CSS/SASS, JavaScript), Frontend libraries/frameworks (i.e. jQuery, React) and essential softwares on 30+ created projects
 
